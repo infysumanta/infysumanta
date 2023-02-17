@@ -1,5 +1,5 @@
 ## Hi there 👋, I am  Sumanta Kabiraj
-i am a Software developer from Kolkata, India
+I am a Software developer from Kolkata, India
 
 
 ## 💫 About Me:
