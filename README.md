@@ -3,7 +3,7 @@ I am a Software developer from Kolkata, India
 
 
 ## 💫 About Me:
-👯 I’m looking to collaborate on *[@vscode-extensions-pack](https://github.com/vscode-extensions-pack)* <br>🌱 I’m currently learning *React Native, Web3*<br>📫 email: *me@sumantakabiraj.com*<br>😄 Pronouns: *He/Him*
+👯 I’m looking to collaborate on *[@vscode-extensions-pack](https://github.com/vscode-extensions-pack)* <br>🌱 I’m currently learning *React Native, Web3*<br>📫 email: *me@sumantakabiraj.com*<br><br>😄 Pronouns: *He/Him*
 
 
 ## 🌐 Socials:
