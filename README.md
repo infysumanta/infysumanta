@@ -14,7 +14,6 @@ I am a Software developer from Kolkata, India
 
 ## 📊 GitHub Stats:
   
-| |   |
-| ------------- | ------------- |
 | ![](https://github-readme-stats.vercel.app/api?username=infysumanta&theme=dark&hide_border=false&include_all_commits=false&count_private=false)  | ![](https://github-readme-streak-stats.herokuapp.com/?user=infysumanta&theme=dark&hide_border=false)  |
-|  |  |
+| ------------- | ------------- |
+
