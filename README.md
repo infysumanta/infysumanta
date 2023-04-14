@@ -1,4 +1,4 @@
-## Hi there 👋, I am  Sumanta Kabiraj
+## Hi there 👋, I am  Sumanta
 I am a Software developer from Kolkata, India
 
 
